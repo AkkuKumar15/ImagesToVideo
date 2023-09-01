@@ -10,8 +10,8 @@ images = [img for img in os.listdir(folder_path) if img.endswith(".png")]
 # Path to the output video file
 output_file = 'C:\...\video.mp4'
 
-# Specify the desired frame rate (frames per second)
-output_frame_rate = 10  # Frames per second (1 millisecond per frame)
+# Specify the desired frame rate (in frames per second)
+output_frame_rate = 10
 
 # Create a list to store the image frames
 frames = []
