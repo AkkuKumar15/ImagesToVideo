@@ -1,2 +1,2 @@
 # ImagesToVideo
-Turns a series of images into a video (ideal for timelapses)
+Turns a series of images into a video (ideal for timelapses). All you have to do is add the path of the pictures you want to make into a video, the path where you want the video to output, and the frame rate. NOTE: The input pictures will be put into the video in the order that they are in your folder. You could implement logic to add them in the way you desire, but I'll leave that you :) 
